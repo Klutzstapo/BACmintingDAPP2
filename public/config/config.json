@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x43d51bf5013921fa844f94cd4b80155055f4d520",
+  "SCAN_LINK": "https://etherscan.io/token/0x43d51bf5013921fa844f94cd4b80155055f4d520",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Brandon Ape Club",
+  "SYMBOL": "BAC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 41000000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/brandonapeclub",
+  "SHOW_BACKGROUND": true
+}
