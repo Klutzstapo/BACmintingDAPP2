@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 10000,
   "WEI_COST": 50000000000000000,
   "DISPLAY_COST": 0.05,
-  "GAS_LIMIT": 10555000000000000,
+  "GAS_LIMIT": 0.01,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/brandonapeclub",
   "SHOW_BACKGROUND": true
